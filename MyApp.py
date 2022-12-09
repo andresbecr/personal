@@ -41,7 +41,7 @@ def mostrar_hoja_de_vida():
 
         Bogotá, Colombia
 
-        3134852467
+        
 
         andres.f-7@hotmail.com
 
