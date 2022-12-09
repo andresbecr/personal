@@ -10,7 +10,7 @@ page = st.sidebar.radio("Página",
 def mostrar_inicio():
     st.markdown(
         """
-        ## Inicio
+        ## Quién es Andrés Felipe Bedoya Cruz
 
         Andrés Felipe Bedoya es un economista con experiencia en el uso de herramientas analíticas para analizar datos y en el área de la economía. Actualmente está cursando una maestría en analítica aplicada de datos con énfasis en gerencia y análisis prescriptivo. Tiene una formación profesional en economía y finanzas internacionales y ha trabajado como consultor e investigador en proyectos relacionados con la limpieza y transformación de bases de datos, el análisis descriptivo, el diseño y aplicación de algoritmos de clasificación de riesgo, el diseño de modelos econométricos y la evaluación del impacto de programas de salud. También ha desempeñado el cargo de auxiliar de investigación, donde ha apoyado en el desarrollo de modelos económicos y ha realizado análisis descriptivos y redacción de informes y presentaciones.
         """
