@@ -97,7 +97,7 @@ def mostrar_hoja_de_vida():
 
     # Mostrar información adicional
 
-    st.write("LinkedIn: https://www.linkedin.com/in/mi-perfil")
+    st.write("LinkedIn: https://www.linkedin.com/in/andresbecr")
     st.write("DeepNote: https://deepnote.com/@andresbecr")
     st.write("GitHub: https://github.com/andresbecr")
 
